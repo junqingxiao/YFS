@@ -5,7 +5,7 @@
 *.d
 
 # ****************.out to ignore************
-/lab 1/lock_demo
-/lab 1/lock_server
-/lab 1/lock_tester
-/lab 1/rpc/rpctest
+lock_demo
+lock_server
+lock_tester
+/rpc/rpctest
