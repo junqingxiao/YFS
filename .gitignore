@@ -4,7 +4,7 @@
 *.gch
 *.d
 
-# ****************lab 1 to ignore************
+# ****************.out to ignore************
 /lab 1/lock_demo
 /lab 1/lock_server
 /lab 1/lock_tester
