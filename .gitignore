@@ -1,0 +1,11 @@
+*.DS_Store
+*.a
+*.o
+*.gch
+*.d
+
+# ****************lab 1 to ignore************
+/lab 1/lock_demo
+/lab 1/lock_server
+/lab 1/lock_tester
+/lab 1/rpc/rpctest
